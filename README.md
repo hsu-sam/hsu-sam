@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I’m a Frontend Developer focused on building responsive, high-performing, and user-friendly web experiences,My current toolkit includes Javascript,React,Nextjs,Vue and Typescript. I love solving problems, turning ideas into clean, interactive interfaces, and constantly learning new ways to create better digital experiences.
+I’m a Frontend Developer focused on building responsive, high-performing, and user-friendly web experiences, My current toolkit includes Javascript, React, Nextjs, Vue and Typescript. I love solving problems, turning ideas into clean, interactive interfaces, and constantly learning new ways to create better digital experiences.
 
 - 🌱 Currently learning: Nuxt
 - 🔭 Working on: Side projects
@@ -18,6 +18,7 @@ I’m a Frontend Developer focused on building responsive, high-performing, and 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Typecript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
 
 
