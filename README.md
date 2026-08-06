@@ -6,7 +6,7 @@ I’m a Frontend Developer focused on building responsive, high-performing, and 
 
 - 🌱 Currently learning: Nodejs, MongoDB
 - 🔭 Working on: Side projects
-- 🌍 Languages: JavaScript/React and English/French
+- 🌍 Languages: JavaScript/Vue and English/French
 - 📫 How to reach me: samuelhounsouu@gmail.com
 - ⚡ Fun fact: I love listening to musics
 
